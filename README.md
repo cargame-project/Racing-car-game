@@ -1,5 +1,5 @@
 <!--hey guys i will be glad if you fix it it will be  fun and star ⭐ me 😜--> 
-<!-- Updated: April 28, 2026 -->
+<!-- Updated: April 29, 2026 -->
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/VIDAKHOSHPEY22/Racing-car-game?style=for-the-badge&logo=github&color=ff6b6b" alt="Stars" />
