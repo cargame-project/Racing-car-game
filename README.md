@@ -118,42 +118,16 @@ pyinstaller --onefile --windowed --icon=assets/icon.ico atari.py
 
 ---
 
-## 🤝 **CONTRIBUTORS**
+## 👨‍💻 CONTRIBUTORS
 
-### Special thanks to these awesome contributors! 🎉
+This repository is a fork adapted for course project development.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YALDAKHOSHPEY">
-        <img src="https://github.com/YALDAKHOSHPEY.png?size=100" width="100px;" alt="Yalda Khoshpey"/>
-        <br />
-        <sub><b>Yalda Khoshpey</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anannyami">
-        <img src="https://github.com/anannyami.png?size=100" width="100px;" alt="Ananya"/>
-        <br />
-        <sub><b>Ananya</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/saurav714">
-        <img src="https://github.com/saurav714.png?size=100" width="100px;" alt="Saurav"/>
-        <br />
-        <sub><b>Saurav</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mukeshlilawat1">
-        <img src="https://github.com/mukeshlilawat1.png?size=100" width="100px;" alt="Mukesh Lilawat"/>
-        <br />
-        <sub><b>Mukesh Lilawat</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+- Gamze Aydın
+- Emine Işıl Alkaş
+- Verda Özayaşlıol
+- Şerife Mürdük
+- Parmis Seifollahy
+- S.Mirahmadi
 
 <p align="center">
   <em>Thank you for your valuable contributions to this project! 🙏</em>
