@@ -28,7 +28,7 @@ A thrilling 2D racing experience where you dodge traffic at high speeds!have fun
 
 ```bash
 # Clone the repository
-git clone https://github.com/VIDAKHOSHPEY22/Racing-car-game.git
+git clone https://github.com/cargame-project/Racing-car-game.git
 cd Racing-car-game
 
 # Install dependencies
